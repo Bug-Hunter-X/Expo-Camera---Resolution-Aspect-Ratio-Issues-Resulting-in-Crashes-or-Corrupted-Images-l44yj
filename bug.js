@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API and attempting to take a picture with a specific resolution or aspect ratio that is not supported by the device's camera.  This can lead to the camera freezing, crashing, or producing an image with unexpected dimensions or artifacts. The error messages might not be very descriptive, making it difficult to diagnose the issue.
